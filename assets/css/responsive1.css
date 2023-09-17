@@ -1,0 +1,459 @@
+/*responsive css start*/
+
+@media (min-width: 1440px) and (max-width: 1600px) {
+	.abcd {
+		width: 105%;
+	}
+	.logo_area {
+		margin-top: 23px;
+		margin-left: -110px;
+	}
+	.main_menu > ul > li > a {
+		margin: 0;
+		font-size: 20px;
+		font-weight: 500;
+		margin: 30px 20px;
+	}
+	.main_menu ul ul li a {
+		padding: 4px 10px;
+		font-size: 16px;
+		font-weight: 400;
+	}
+	.techit_menu_btn a {
+		font-size: 13px;
+		margin-left: 11px;
+		font-weight: 50;
+		padding: 10px 17px 10px;
+		margin-right: 0;
+	}
+	.slider_content {
+		height: 700px;
+		width: 47%;
+		margin-left: 101px;
+	}
+	.slider_content_text {
+		margin-left: 0;
+	}
+	.slider_content_text h2 {
+		font-size: 70px;
+	}
+	.slider_content_text p {
+		padding: 10px 0;
+		font-size: 16px;
+	}
+	.slider_btn a, .slider_btn2 a {
+		padding: 10px 15px;
+		font-size: 16px;
+	}
+}
+@media (min-width: 1365px) and (max-width: 1439px) {
+	.abcd {
+		width: 107%;
+	}
+	.logo_area {
+		margin-top: 13px;
+		margin-left: -119px;
+	}
+	.main_menu > ul > li > a {
+		margin: 0;
+		font-size: 19px;
+		font-weight: 500;
+		margin: 32px 18px;
+	}
+	.main_menu ul ul li a {
+		padding: 4px 10px;
+		font-size: 16px;
+		font-weight: 400;
+	}
+	.techit_menu_btn a {
+		font-size: 13px;
+		margin-left: 11px;
+		font-weight: 50;
+		padding: 10px 17px 10px;
+		margin-right: 0;
+	}
+	.slider_content {
+		height: 650px;
+		width: 47%;
+		margin-left: 101px;
+	}
+	.slider_content_text {
+		margin-left: 0;
+	}
+	.slider_content_text h2 {
+		font-size: 65px;
+	}
+	.slider_content_text p {
+		padding: 10px 0;
+		font-size: 16px;
+	}
+	.slider_btn a, .slider_btn2 a {
+		padding: 10px 15px;
+		font-size: 16px;
+	}
+}
+@media (min-width: 1200px) and (max-width: 1364px) {
+	.abcd {
+		width: 108%;
+	}
+	.logo_area {
+		margin-top: 23px;
+		margin-left: -119px;
+	}
+	.main_menu > ul > li > a {
+		margin: 0;
+		font-size: 17px;
+		font-weight: 500;
+		margin: 33px 15px;
+	}
+	.main_menu ul ul li a {
+		padding: 4px 10px;
+		font-size: 16px;
+		font-weight: 400;
+	}
+	.techit_menu_btn a {
+		font-size: 13px;
+		margin-left: 11px;
+		font-weight: 50;
+		padding: 10px 17px 10px;
+		margin-right: 0;
+	}
+	.slider_content {
+		height: 600px;
+		width: 47%;
+		margin-left: 101px;
+	}
+	.slider_content_text {
+		margin-left: 0;
+	}
+	.slider_content_text h2 {
+		font-size: 60px;
+	}
+	.slider_content_text p {
+		padding: 10px 0;
+		font-size: 16px;
+	}
+	.slider_btn a, .slider_btn2 a {
+		padding: 10px 15px;
+		font-size: 16px;
+	}
+}	
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+	.abcd {
+		width: 111%;
+	}
+	.logo_area {
+		margin-top: 23px;
+		margin-left: -115px;
+	}
+	.main_menu > ul > li > a {
+		margin: 0;
+		font-size: 15px;
+		font-weight: 500;
+		margin: 33px 9px;
+	}
+	.main_menu ul ul li a {
+		padding: 4px 10px;
+		font-size: 16px;
+		font-weight: 400;
+	}
+	.techit_menu_btn a {
+		font-size: 13px;
+		margin-left: 11px;
+		font-weight: 50;
+		padding: 10px 17px 10px;
+		margin-right: 0;
+	}
+	.slider_content {
+		height: 550px;
+		width: 47%;
+		margin-left: 101px;
+	}
+	.slider_content_text {
+		margin-left: 0;
+	}
+	.slider_content_text h2 {
+		font-size: 60px;
+	}
+	.slider_content_text p {
+		padding: 10px 0;
+		font-size: 18px;
+	}
+	.slider_btn a, .slider_btn2 a {
+		padding: 10px 15px;
+		font-size: 16px;
+	}
+}
+
+@media (max-width: 991px) {
+	.mobile_logo_area {
+		display: block;
+		padding: 12px 0;
+		text-align: center;
+		margin: 0;
+	}
+	.mobile_logo_area a {}
+	.mobile_logo_area a img {
+		max-width: 100%;
+		height: auto;
+	}
+	.abcd {
+		width: 114%;
+	}
+	.logo_area {
+		margin-top: 27px;
+		margin-left: -98px;
+	}
+	.main_menu_area {
+		display: none;
+	}
+	.mobile_munu_area {
+		display: block;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {	
+	body {
+		overflow-x: hidden;
+	}
+	.top_social_menu {
+		margin-left: 82px;
+	}
+	.main_menu > ul > li > a {
+		margin: 0; 
+		font-size: 16px;
+		font-weight: 500;
+	}
+	.main_menu ul ul li a {
+		padding: 4px 10px;
+		font-size: 16px;
+		font-weight: 400;
+	}
+	.techit_menu_btn a {
+
+		font-size: 11px;
+		margin-left: 11px;
+		font-weight: 50;
+		padding: 0px 17px 0px;
+		margin-right: 0;
+	}
+	.slider_content {
+		height: 520px;
+		width: 47%;
+		margin-left: 101px;
+	}
+	.slider_content_text {
+		margin-left: 0;
+	}
+	.slider_content_text h2 {
+		font-size: 56px;
+	}
+	.slider_content_text p {
+		padding: 10px 0;
+		font-size: 16px;
+	}
+	.slider_btn a, .slider_btn2 a {
+		padding: 10px 15px;
+		font-size: 16px;
+	}
+	.single_feature {
+		margin-top: 22px;
+	}
+	.single_team {
+		margin-top: 32px;
+	}
+	.counter_single {
+		margin-top: 22px;
+	}
+	.single_project {
+		margin-top: 22px;
+	}
+	.process_single_team {
+		margin-top: 22px;
+	}
+	.teachit_tabs {
+		margin: 19px 0 0 75px;
+	}	
+	.teachit_tabs ul li a {
+		margin: 15px;
+	}
+	.single_tabs {
+		margin-left: -73px;
+	}
+	.tab_text h3 {
+		margin-top: 25px;
+	}
+
+
+}
+
+@media (max-width: 767px) {
+	.top_social_menu {
+		margin-left: 82px;
+	}
+	.main_menu > ul > li > a {
+		margin: 0; 
+		font-size: 16px;
+		font-weight: 500;
+	}
+	.main_menu ul ul li a {
+		padding: 4px 10px;
+		font-size: 16px;
+		font-weight: 400;
+	}
+	.techit_menu_btn a {
+		font-size: 11px;
+		margin-left: 11px;
+		font-weight: 50;
+		padding: 0px 17px 0px;
+		margin-right: 0;
+	}
+	.slider_content {
+		height: 490px;
+		width: 95%;
+		text-align: center;
+	}
+	.slider_content_text {
+		margin-left: 0;
+	}
+	.slider_content_text h2 {
+		font-size: 40px;
+	}
+	.slider_content_text p {
+		padding: 10px 0;
+		font-size: 17px;
+	}
+	.slider_btn a, .slider_btn2 a {
+		padding: 10px 13px;
+		font-size: 14px;
+	}
+	.about_right_area {
+		margin: 0;
+	}
+	.about_animate_inner {
+		display: none;
+	}
+	.about_left_area {
+		margin: 0;
+	}
+	.section_title {
+		margin-left: 26px;
+	}
+	.section_title h3 {
+		font-size: 14px;
+	}
+	.section_title h2 {
+		font-size: 25px;
+		margin-bottom: 22px;
+	}
+	.section_title p {
+		font-size: 15px;
+	}
+	.techit_service_item {
+		margin-left: 14px;
+	}
+	.about_video {
+		text-align: center;
+	}
+	.service_area .section_title {
+		width: 80%;
+	}
+	.service_btn a {
+		font-size: 14px;
+		padding: 10px 16px;
+	}
+	.service_item {
+		text-align: center;
+	}
+	.team_area .section_title {
+		width: 90%;
+	}
+	.single_team {
+		margin: 20px 0;
+	}
+	.counter_single {
+		margin: 20px 0;
+	}
+	.project_area .section_title {
+		width: 80%;
+	}
+	.single_project {
+		margin: 20px 0;
+	}
+	.project_content {
+		left: 18px;
+	}
+	.skill_content .section_title {
+		width: 90%;
+	}
+	.video_admin_area {
+		width: 302px;
+		right: 2%;
+		left: 3%;
+	}
+	.process_area {
+		padding: 150px 0 61px 0;
+	}
+	.testimonial_area .section_title {
+		width: 85%;
+	}
+	.tab_left_content p {
+		font-size: 17px;
+		margin-left: 21px;
+	}
+	.teachit_tabs {
+		margin: 30px 0;
+	}
+	.teachit_tabs ul li a {
+		margin: 20px;
+	}
+	.tab_text h3 {
+		margin-top: 20px;
+	}
+	.techit_blog_area .section_title {
+		width: 85%;
+	}
+	.footer_area {
+		text-align: center;
+	}
+	.widget_title h3 {
+		margin: 30px 0;
+		text-align: center; 
+	}
+	.widget_menu {
+		text-align: center;
+	}
+	.widget_title .wid_add_title {
+		text-align: center;
+	}
+	.widget_address {
+		text-align: center;
+	}
+	.bottom_footer_menu {
+		text-align: center;
+	}
+
+
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	.slider_content_text h2 {
+		font-size:45px;
+
+	}
+}
+
+@media (max-width: 568px) {
+	.top_header_area {
+		display: none;
+	}
+	.slick_slider .slick-prev,
+	.slick_slider .slick-next {
+		display: none;
+
+	}
+
+}
